@@ -51,6 +51,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [TARANG0503/DSA-Practice](https://github.com/TARANG0503/DSA-Practice) | |
 | [CrackerSuman/Algorithms](https://github.com/CrackerSuman/Algorithms) | small algorithms repository |
 | [Knackie/algorithmshacktoberfest2021](https://github.com/Knackie/algorithmshacktoberfest2021) |  Repository for algorithms in various language |
+| [Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms) | Repository for all data structures and algorithms |
 ### Bots
 | | |
 |--|--|
